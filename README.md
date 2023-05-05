@@ -1,2 +1,2 @@
-# dio-desafio1-bootcamp-tqi
+# dio-desafio-bootcamp-tqi
 repositório criado para o primeiro desafio de projeto
